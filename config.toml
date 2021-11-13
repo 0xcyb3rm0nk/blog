@@ -1,4 +1,4 @@
-baseURL = 'http://0xcyb3rm0nk.github.io/blog/ '
+baseURL = 'http://0xcyb3rm0nk.github.io/blog/'
 languageCode = 'en-us'
 title = 'Cyb3rM0nk Services'
 theme= 'hugo-PaperMod'
